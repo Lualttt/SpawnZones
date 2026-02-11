@@ -449,7 +449,7 @@ namespace SpawnZones
 						)
 		];
 
-		public static readonly SpawnZone[] SmallContainers = [
+		public static readonly SpawnZone[] SmolContainers = [
 				new SpawnZone(
 								Center: new(0f, 0f),
 								Size: new(50f, 50f),
