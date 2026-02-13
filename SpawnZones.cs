@@ -86,7 +86,7 @@ namespace SpawnZones
 						)
 		];
 
-		public static readonly SpawnZone[] FunkyFields = [
+		public static readonly SpawnZone[] FunkyField = [
 				new SpawnZone(
 								Center: new(0f, 0f),
 								Size: new(95f, 95f),
