@@ -442,8 +442,8 @@ namespace SpawnZones
 
 		public static readonly SpawnZone[] SmallSaloon = [
 				new SpawnZone(
-								Center: new(-0.8f, 1f),
-								Size: new(65f, 65f),
+								Center: new(0f, 0f),
+								Size: new(40f, 40f),
 								MaxHeight: 3f,
 								MinHeight: -20f
 						)
@@ -469,8 +469,8 @@ namespace SpawnZones
 
 		public static readonly SpawnZone[] TinyTown = [
 				new SpawnZone(
-								Center: new(-0.8f, 1f),
-								Size: new(70f, 70f),
+								Center: new(0f, 0f),
+								Size: new(20f, 20f),
 								MaxHeight: 3f,
 								MinHeight: -20f
 						)
